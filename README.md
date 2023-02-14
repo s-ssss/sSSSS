@@ -94,7 +94,7 @@ https://dwz.dk
 
 —-环境：http://api.btstu.cn/sjbz/?lx=fengjing
 
-#### 解析测试：
+#### 解析：
 
 http://www.36nu.com/apiTest
 
@@ -115,7 +115,7 @@ http://www.36nu.com/apiTest
 
 https://github.com/tv-player/TvBox
 
-#### 编辑器：
+#### 编辑：
 
 https://kvymin.github.io/CatVodTVJsonEditor/
 
@@ -243,3 +243,117 @@ https://github.com/Kvymin/CatVod
 传说中的T4类型，仓库地址如下，自己研究。
 
 https://github.com/sec-an/TV_Spider
+
+#### 软件：
+
+0、首推吾爱破解工具包：
+
+https://down.52pojie.cn/Tools/
+
+1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html
+
+2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm
+
+3、下载编码器，
+
+改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
+
+jar包缝合教程：暴力缝合，非代码修改。 准备工作：MT管理器或者NP管理器，B包要用的包，A包要导出的包。
+
+开始：A包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开B包，导入刚才导出的重命名的merge文件，保存退出。B包就是缝合好的包。
+
+多试几次，关键是找个好用的MT或者NP。不是你不会，是因为你的MT或着NP没那个功能。
+
+1、打开需要导出的包：
+
+1
+
+2、给他重命名：
+
+2
+
+3、选中，并导出你需要的文件：
+
+3
+
+4、随便取个名字，自己能找到就行，理解就好。
+
+4
+
+5、打开你最终要用的包，导入刚才那个包导出的东西。
+
+5
+
+6、导入完成后的样子：
+
+6 7
+
+试试吧，不一定对。
+
+今天看到一个新的教程： 【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画
+
+8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
+
+教程在仓库里：https://github.com/dlgt7/TVbox-interface PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
+
+api解释：
+
+csp_XPath 普通套娃
+
+csp_XPathMac 直链套娃
+
+csp_XPathFilter 普通套娃带筛选
+
+csp_XPathMacFilter 直链套娃带筛选
+
+csp_XPathEgg 蛋蛋赞自定义套娃
+
+套娃依赖自定义爬虫jar，同样需要在自定义json中加入相应的配置，type=3, api为csp_XPath，套娃相关规则配置在ext字段中，注意：ext字段值只能是字符串
+
+为控制配置文件容量，同时支持在ext字段中直接配置规则和拉取规则的网址。 2021.10.21 by 小黄瓜
+
+接口指定播放器写法示例：
+
+{
+
+"key": "csp_key",
+
+"name": "api(SP)",
+
+"type": 3,
+
+"api": "csp_api",
+
+"playerType": 1, // 新增字段，用来为该爬虫指定播放器 0:system, 1:ijk, 2:exo, 10:mx，11:Reex,12:Kodi.默认-1为配置页面设置的播放器(app/src/main/java/com/github/tvbox/osc/util/PlayerHelper.java...161行)
+
+"searchable": 1,
+
+"quickSearch": 1,
+
+"filterable": 1
+
+},
+
+exo会清晰点。exo不能播阿里系，小苹果。
+
+直播文件设置密码： VIP高清秒播1_0709,#genre# 　　　　密码：0709
+
+默认播放器设置：
+
+App default settings can be set here : /src/main/java/com/github/tvbox/osc/base/App.java
+
+private void initParams() {
+
+putDefault(HawkConfig.HOME_REC, 2); // Home Rec 0=豆瓣, 1=推荐, 2=历史
+
+putDefault(HawkConfig.PLAY_TYPE, 1); // Player 0=系统, 1=IJK, 2=Exo
+
+putDefault(HawkConfig.IJK_CODEC, "硬解码");// IJK Render 软解码, 硬解码
+
+putDefault(HawkConfig.HOME_NUM, 2); // History Number
+
+putDefault(HawkConfig.DOH_URL, 2); // DNS
+
+putDefault(HawkConfig.SEARCH_VIEW, 2); // Text or Picture }
+
+https://gitee.com/cloumap/TVBox
