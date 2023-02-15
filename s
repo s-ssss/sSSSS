@@ -73,7 +73,7 @@
 
 
 
-
+{"key":"drpy_js_喵喵影院","name":"┃喵喵┃影院","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"},
 
 
 
