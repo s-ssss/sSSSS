@@ -67,7 +67,7 @@
 
 {"key":"布蕾蓝光","name":" 🍩┃布蕾┃蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/bllg.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
 
-{"key":"csp_XYQHiker_双十电影","name":"  🔟┃双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/1010dy.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
+{"key":"csp_XYQHiker_双十电影","name":"🎯┃双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/1010dy.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
 
 {"key": "csp_XYQHiker_皮皮鸭影视", "name": "🐩┃皮皮┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ppyys.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
@@ -76,16 +76,16 @@
 
 {"key":"csp_Bttoo","name":"✌┃俩个┃BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Auete","name":"🔥奥特┃影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🦸┃奥特┃影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 { "key": "csp_新视觉", "name": "✨┃new┃视觉", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar":"http://101.34.67.237/files/新视觉.jar" },
 
-{ "key": "dr_菜狗", "name": "🐶┃菜狗┃采集", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 1, "ext": "http://101.34.67.237/js/菜狗.js" },
+{ "key": "dr_菜狗", "name": " 🐕┃菜狗┃采集", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 1, "ext": "http://101.34.67.237/js/菜狗.js" },
 
 { "key": "dr_真不卡", "name": "💳┃不卡┃影视", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0, "ext": "http://101.34.67.237/js/真不卡.js" },
 
 {"key":"drpy_js_子子影视","name":" 👥┃子子┃影视","type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://cx66.tk/jshk/jsv/子子影视.js"},
-{"key":"csp_555","name":" 5️⃣┃555┃(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_555","name":"5⃣┃555┃(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"👨‍🌾┃农民┃(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./TVbox/XP/nmys.json"},
 
 
