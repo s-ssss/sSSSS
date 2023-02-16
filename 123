@@ -73,7 +73,7 @@
 
 {"key":"csp_XYQHiker_FREEOK", "name":"🎠┃Free┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/FREEOK.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
-{"key":"360_spider","name":"📺┃360+┃影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"360_spider","name":"📺┃360+┃影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 
 
