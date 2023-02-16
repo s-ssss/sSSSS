@@ -9,7 +9,7 @@
 
 "spider":"https://notabug.org/ZID/SL/raw/main/IPTV/HOMESPIDERS.jar",
 
-
+ cout << setiosflags(ios::right)
 
 //电视直播源
 //方法1
@@ -98,7 +98,7 @@
 {"key":"csp_Bttoo","name":"🔥俩BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Auete","name":"🔥奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"🔥科迷","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+
 	{
             "key": "csp_新视觉",
             "name": "🍁视觉",
