@@ -56,7 +56,7 @@
 
 
 
-{"key":"诺讯影视","name":" 🥃┃诺讯┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XPath/NXYS.json"},
+{"key":"诺讯影视","name":"🧩┃诺讯┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XPath/NXYS.json"},
 
 
 {"key":"drpy_js_厂长资源","name":" 🏭┃厂长┃资源","type":3,"api":"https://gitee.com/maoshuiwei/tvbox/raw/master/drpy/lib/drpy2.min.js","ext":"https://gitee.com/maoshuiwei/tvbox/raw/master/drpy/js/厂长资源.js"},
@@ -84,7 +84,7 @@
 
 { "key": "dr_真不卡", "name": "💳┃不卡┃影视", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0, "ext": "http://101.34.67.237/js/真不卡.js" },
 
-{"key":"drpy_js_子子影视","name":" 👥┃子子┃影视","type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://cx66.tk/jshk/jsv/子子影视.js"},
+{"key":"drpy_js_子子影视","name":"🍆┃子子┃影视","type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://cx66.tk/jshk/jsv/子子影视.js"},
 {"key":"csp_555","name":"🍭┃555┃(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"👨‍🌾┃农民┃(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./TVbox/XP/nmys.json"},
 
