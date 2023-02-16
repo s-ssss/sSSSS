@@ -75,12 +75,7 @@
 
 {"key":"360_spider","name":"📺┃360+┃影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
-//网盘
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
 
 //网盘
 
