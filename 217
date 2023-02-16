@@ -91,8 +91,90 @@
 {"key":"csp_Nmys","name":"👨‍🌾┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 
 //测试
-
-
+            "key": "百影视频",
+            "name": "百影视频",
+            "type": 3,
+            "api": "csp_MianHua",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://47.104.99.175"
+        },
+        {
+            "key": "NoSearch_Bdys_spider",
+            "name": "哔滴影视",
+            "api": "csp_Bdys01",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "NoSearch_csp_DiDuan",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "Lezhu_spider",
+            "name": "乐猪影视",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "booys_spider",
+            "name": "书影影视",
+            "api": "csp_BookYs",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "niketv_spider",
+            "name": "耐客TV",
+            "api": "csp_NikeTV",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "棉花影视",
+            "name": "棉花影视",
+            "type": 3,
+            "api": "csp_MianHua",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://118.190.144.126"
+        },
+        {
+            "key": "sliu_spider",
+            "name": "石榴电影",
+            "api": "csp_ShiLiuDY",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
 
 
 
