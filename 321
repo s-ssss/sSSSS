@@ -9,7 +9,7 @@
 
 "spider":"https://notabug.org/ZID/SL/raw/main/IPTV/HOMESPIDERS.jar",
 
- cout << setiosflags(ios::right)
+
 
 //电视直播源
 //方法1
