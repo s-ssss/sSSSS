@@ -6,11 +6,9 @@
 <a href="https://adzhp.net/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E6%9D%82%E8%B4%A7%E9%93%BA.png" alt="Downloads" />
   </a>
-
 <a href="https://ysg123.com/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E5%BD%B1%E8%A7%86%E7%8B%97.png" alt="Downloads" />
   </a>
-
 <a href="https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-java.apk">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FongMiTV.png" alt="Downloads" />
   </a>
@@ -31,9 +29,6 @@
   </a>
 <a href="https://xn--z7x900a.love/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E8%82%A5%E7%8C%AB.png" alt="Downloads" />
-  </a>
-<a href="http://饭太硬.ga/x/o.json">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E9%A5%AD%E5%A4%AA%E7%A1%AC.png" alt="Downloads" />
   </a>
 <a href="https://photokit.com/editor/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/AI%E6%8A%A0%E5%9B%BE.png" alt="Downloads" />
