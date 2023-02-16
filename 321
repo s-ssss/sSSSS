@@ -49,21 +49,10 @@
 
 
 
-{
-"key":"csp_XYQHiker_饭团影视",
-"name":"🍙┃饭团┃影视",
-"type":3,
-"api":"csp_XYQHiker",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ftys.json",
-"jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"
-},
+{ "key":"csp_XYQHiker_饭团影视", "name":"🍙┃饭团┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ftys.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
 
-
-{"key":"drpy_js_喵喵影院","name":"┃喵喵┃影院","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"},
+{"key":"drpy_js_喵喵影院","name":"🐱┃喵喵┃影院","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"},
 
 
 
@@ -74,63 +63,42 @@
 
 {"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
 
-{"key":"csp_Kunyu77","name":"🌤┃酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":" 🏳️‍🌈┃酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"布蕾蓝光","name":" 🍩┃布蕾┃蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/bllg.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
 
-{"key":"csp_XYQHiker_双十电影","name":" ❤️┃双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/1010dy.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
+{"key":"csp_XYQHiker_双十电影","name":"  🔟┃双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/1010dy.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
 
 {"key": "csp_XYQHiker_皮皮鸭影视", "name": "🐩┃皮皮┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ppyys.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
 {"key":"csp_XYQHiker_FREEOK", "name":"🎠┃Free┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/FREEOK.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
 
-{"key":"csp_Bttoo","name":"🔥俩BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"✌┃俩个┃BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Auete","name":"🔥奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🔥奥特┃影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-	{
-            "key": "csp_新视觉",
-            "name": "🍁视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	    "jar":"http://101.34.67.237/files/新视觉.jar"
-        },
+{ "key": "csp_新视觉", "name": "✨┃new┃视觉", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar":"http://101.34.67.237/files/新视觉.jar" },
 
-        {
-            "key": "dr_菜狗",
-            "name": "菜狗",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://101.34.67.237/js/菜狗.js"
-        },
+{ "key": "dr_菜狗", "name": "🐶┃菜狗┃采集", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 1, "ext": "http://101.34.67.237/js/菜狗.js" },
 
-        {
-            "key": "dr_真不卡",
-            "name": "不卡",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/真不卡.js"
-        },
+{ "key": "dr_真不卡", "name": "💳┃不卡┃影视", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0, "ext": "http://101.34.67.237/js/真不卡.js" },
+
+{"key":"drpy_js_子子影视","name":" 👥┃子子┃影视","type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://cx66.tk/jshk/jsv/子子影视.js"},
+{"key":"csp_555","name":" 5️⃣┃555┃(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"农民","name":"👨‍🌾┃农民┃(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./TVbox/XP/nmys.json"},
+
+
 
 //BILIBILI
 
-{"key": "MV","name": "🎤MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1MTV.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "MV","name": "🌌MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1MTV.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
-{"key": "学堂","name": "🍉学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%82.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "学堂","name": " 👩‍💻学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%82.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
-{"key": "EXCEL","name": "🌈Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1Excel%E6%95%99%E7%A8%8B.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "EXCEL","name": " 📊办公","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1Excel%E6%95%99%E7%A8%8B.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
-{"key": "演唱会","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1%E6%BC%94%E5%94%B1%E4%BC%9A.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "演唱会","name": " 🎧Concert","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1%E6%BC%94%E5%94%B1%E4%BC%9A.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
 {"key":"csp_Bili热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/json/女团.txt"},
 
