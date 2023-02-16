@@ -7,7 +7,7 @@
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E7%88%B1%E8%BE%BE%E6%9D%82%E8%B4%A7%E9%93%BA" alt="Downloads" />
   </a>豌豆PRO<a href="https://wandou.pro">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E8%B1%8C%E8%B1%86pro.ico" alt="Downloads" />
-  </a><a href="https://zypuu.com/">
+  </a>资源铺<a href="https://zypuu.com/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E8%B5%84%E6%BA%90%E9%93%BA.png" alt="Downloads" />
   </a>
 
