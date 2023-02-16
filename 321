@@ -94,11 +94,14 @@
 
 {"key":"csp_XYQHiker_FREEOK", "name":"🎠┃Free┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/FREEOK.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
-{"key":"剧荒TV","name":"🔥剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},{"key":"神马电影","name":"🔥神马(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_DiDuan","name":"🔥低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},{"key":"追剧喵","name":"🔥追喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Bttoo","name":"🔥俩BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},{"key":"巴士","name":"🔥巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},{"key":"9E03","name":"🔥9E03(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},{"key":"csp_Mjxq","name":"🔥美剧(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},{"key":"Lib","name":"🔥Libvi(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Auete","name":"🔥Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_Cokemv","name":"🔥Cokem(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},{"key":"哔嘀","name":"🔥哔嘀(磁)","type":3,"api":"csp_Bde4","searchable":1,"quickSearch":1,"filterable":1},
-       
+
+{"key":"csp_Bttoo","name":"🔥俩BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Auete","name":"🔥奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🔥科迷","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 	{
             "key": "csp_新视觉",
-            "name": "🍁新视觉",
+            "name": "🍁视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -109,7 +112,7 @@
  
         {
             "key": "dr_菜狗",
-            "name": "菜狗(drpy)",
+            "name": "菜狗",
             "type": 3,
             "api": "http://101.34.67.237/libs/drpy.min.js",
             "searchable": 2,
@@ -120,7 +123,7 @@
 
         {
             "key": "dr_真不卡",
-            "name": "真不卡(drpy)",
+            "name": "不卡",
             "type": 3,
             "api": "http://101.34.67.237/libs/drpy.min.js",
             "searchable": 2,
