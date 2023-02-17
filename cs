@@ -7,7 +7,7 @@
 
 //接口"spider":"https://gitee.com/liugd1005/tvbox/raw/master/jar/HOMESPIDERS.jar",
 
-"spider":"https://notabug.org/ZID/SL/raw/main/IPTV/HOMESPIDERS.jar",
+"spider":"https://gitee.com/as5555/sss/raw/s/Yoursmile.jar",
 
 
 
