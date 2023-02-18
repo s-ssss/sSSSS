@@ -30,8 +30,8 @@
   </a>
 
 
-<a href="https://www.baidu.com">
-    <img src=![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") alt="Downloads" />
+<a href="https://肥猫.love/">
+    <img src="https://肥猫.love/img/bdlogo.gif "百度logo" alt="Downloads" />
   </a>
 
 
