@@ -30,7 +30,10 @@
   </a>
 
 
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+<a href="https://www.baidu.com">
+    <img src=![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") alt="Downloads" />
+  </a>
+
 
 
 
