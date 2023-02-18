@@ -10,13 +10,13 @@
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E5%BD%B1%E8%A7%86%E7%8B%97.png" alt="Downloads" />
   </a>
 <a href="https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-java.apk">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FongMiTV.png" alt="Downloads" />
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png" alt="Downloads" />
   </a>
 <a href="https://github.com/q215613905/TVBoxOS">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/TVBox.png" alt="Downloads" />
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/GF.png" alt="Downloads" />
   </a>
 <a href="https://github.com/takagen99/Box">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/takegen99%E4%BB%93%E5%BA%93" alt="Downloads" />
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/99" alt="Downloads" />
   </a>
 <a href="http://cron.qiqiv.cn/cron/abc/123/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/TVBox%E7%BC%96%E8%BE%91%E5%99%A8.png" alt="Downloads" />
