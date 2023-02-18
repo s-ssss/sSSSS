@@ -17,7 +17,7 @@
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/BJQ.png" alt="Downloads" />
   </a>
 <a href="https://bar.ssstab.com/">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E5%B7%A5%E5%85%B7%E7%AE%B1%E6%90%9C%E7%B4%A2%E7%BD%91%E7%AB%99.png" alt="Downloads" />
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/SSS.png" alt="Downloads" />
   </a>
 <a href="https://c.runoob.com/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E8%8F%9C%E9%B8%9F%E5%B7%A5%E5%85%B7.png" alt="Downloads" />
