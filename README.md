@@ -2,12 +2,19 @@
 
 #### 外链：
 
-爱达杂货铺
-<a href="https://adzhp.net/">
-    <img src="https://gitee.com/as5555/sss/blob/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/%E8%8F%9C%E9%B8%9F%E5%B7%A5%E5%85%B7.png" alt="Downloads" />
+<a href="https://github.com/q215613905/TVBoxOS">
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/GF.png" alt="Downloads" />
   </a>
 
+<a href="https://github.com/FongMi/TV">
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png
+" alt="Downloads" />
+  </a>
 
+<a href="https://github.com/takagen99/Box">
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/99.png
+" alt="Downloads" />
+  </a>
 
 
 
