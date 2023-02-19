@@ -111,7 +111,28 @@
 
 
 
-
+    {
+      "key": "csp_XYQHiker_兰花影视",
+      "name": "🌼┃兰花┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/lhys.json",
+      "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar"
+    },
+    {
+      "key": "csp_XYQHiker_慢大浪影视",
+      "name": "⛲┃大浪┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/mdlys.json",
+      "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar"
+    },
 
 
 
