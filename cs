@@ -47,8 +47,9 @@
 //测试
 
 
+{"key":"HDmol","name":" 🍁HDmol","type":0,"api":"https://www.hdmoli.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
 
-{"key":"drpy_js_HDmoli","name":"🌍┃HDmoli┃影视","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js"},
 
 {"key":"csp_xml_小猫咪（官）","name":"🐝小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
      "categories":["国产剧","港台剧","日韩剧","欧美剧","科幻片","综艺","动漫","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","综合频道"]},
