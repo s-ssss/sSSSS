@@ -46,6 +46,30 @@
 
 //测试
 
+//https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js
+
+
+    {
+      "key": "drpy_js_夜空",
+      "name": "夜空",
+      "type": 3,
+      "api": "drpy_js_夜空",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/as5555/dr_py/raw/master/js/%E5%A4%9C%E7%A9%BA.js",
+
+
+{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
+{"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
+{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
 
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
@@ -80,7 +104,6 @@
 
 {"key":"SP360","name":"💘┃360┃影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{ "key": "Lezhu_spider", "name": "🐷┃乐猪┃影视", "api": "csp_Lezhu", "type": 3, "filterable": 1, "playerType": 2, "quickSearch": 1, "searchable": 1, "ext": "" },
 
 {"key":"csp_Kunyu77","name":" 🏳️‍🌈┃酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
