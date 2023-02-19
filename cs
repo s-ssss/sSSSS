@@ -45,7 +45,7 @@
 
 
 //测试
-
+{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/HoHo影视.js"},  
 
 {"key": "drpy_js_test","name": "影渣渣 🎑js测试[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js",searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/%E6%A8%A1%E7%89%88/jstest.js"},	
    {"key":"csp_xBPQ_test测试","name":" 🍂测试 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/test.json"},
