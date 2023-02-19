@@ -3,7 +3,8 @@
 /*-----------------------JAR包接口-----------------------*/
 
 //壁纸"wallpaper":"http://maoyingshi.cc/api.php",
-"wallpaper":"https://qiu.moe/a723",
+//"wallpaper":"https://qiu.moe/a723",
+"wallpaper":"https://epg.112114.xyz/bingimg",
 
 //接口"spider":"https://gitee.com/liugd1005/tvbox/raw/master/jar/HOMESPIDERS.jar",
 
