@@ -49,6 +49,9 @@
 {"key":"csp_555","name":"5️⃣️HDmoli","type":3,"api":"csp_HDmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com"},
 
 
+{"key":"drpy_js_HDmoli","name":"🌍┃HDmoli┃影视","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js"},
+
+
 
 
 
@@ -105,10 +108,6 @@
 
 
 {"key":"drpy_js_喵喵影院","name":"🐱┃喵喵┃影院","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/喵喵.js"},
-
-
-{"key":"drpy_js_夜空","name":"🌍┃夜空┃影视","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/夜空.js"},
-
 
 
 {"key":"drpy_js_厂长资源","name":" 🏭┃厂长┃资源","type":3,"api":"https://gitee.com/as5555/sss/raw/s/CZZY","searchable":1, "quickSearch":1, "filterable":1},
