@@ -46,12 +46,12 @@
 
 //测试
 
-{"key":"csp_555","name":"5️⃣️HDmoli","type":3,"api":"csp_HDmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com"},
 
 
 {"key":"drpy_js_HDmoli","name":"🌍┃HDmoli┃影视","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js"},
 
-
+{"key":"csp_xml_小猫咪（官）","name":"🐝小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
+     "categories":["国产剧","港台剧","日韩剧","欧美剧","科幻片","综艺","动漫","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","综合频道"]},
 
 
 
@@ -66,19 +66,10 @@
 
 
 
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
-{"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
 
 
 
-
-//测试中
-{ "key": "csp_XYQHiker_兰花影视", "name": "🌼┃兰花┃测试", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/lhys.json", "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar" },
-
-{ "key": "csp_XYQHiker_慢大浪影视", "name": "⛲┃大浪┃测试", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/liugd1005/home-tvbox/raw/master/TVBOX-XYQHiker/mdlys.json", "jar": "https://gitee.com/liugd1005/home-tvbox/raw/master/Home-Spiders/homespiders-xpath.jar" },
 
 
 //优质
@@ -88,6 +79,15 @@
 {"key":"快看","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"小苹果","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"🏭┃厂长┃蓝光","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_YQKAPP","name":"🌎┃一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
+
+{"key":"csp_Yht","name":"🍀┃野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
+
+{"key":"csp_fantuan","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+
 
 {"key":"csp_Bd","name":"🚀┃哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -104,15 +104,11 @@
 
 { "key":"LIBVIO", "name":"🍒┃荔波┃影视", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/liugd1005/tvbox/raw/master/XPath/LIBVIO.json" },
 
-{ "key":"csp_XYQHiker_饭团影视", "name":"🍙┃饭团┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ftys.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
 
 {"key":"drpy_js_喵喵影院","name":"🐱┃喵喵┃影院","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/喵喵.js"},
 
 
-{"key":"drpy_js_厂长资源","name":" 🏭┃厂长┃资源","type":3,"api":"https://gitee.com/as5555/sss/raw/s/CZZY","searchable":1, "quickSearch":1, "filterable":1},
-
-{"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
 
 {"key":"布蕾蓝光","name":" 🍩┃布蕾┃蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/bllg.json","jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar"},
 
