@@ -46,6 +46,14 @@
 
 //{"key":"drpy_js_蚂蚁影视","name":"🐜┃蚂蚁┃影视","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js"},
 
+
+{"key": "drpy_js_饭团影视","name": " 🎑饭团影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/饭团影视.js"},
+        {"key": "drpy_js_零度影视","name": " 🎑零度影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/零度影视.js"},
+	{"key": "drpy_js_奇米动漫","name": " 🎑奇米动漫[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/奇米动漫.js"},  
+	{"key": "drpy_js_音悦网","name": " 🎑音悦网[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/音悦网.js"},
+	{"key": "drpy_js_西瓜影视2","name": " 🎑西瓜影视2[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/西瓜影视2.js"},  
+	{"key": "drpy_js_小狗影视","name": " 🎑小狗影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/小狗影视.js"},  
+
 {
 "key":"LIBVIO",
 "name":"🍒┃荔波┃影视",
