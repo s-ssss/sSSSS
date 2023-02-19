@@ -46,14 +46,18 @@
 
 //测试
 
-//https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js
+    {
+      "key": "drpy_js_HDmoli",
+      "name": "HDmoli",
+      "type": 3,
+      "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/HDmoli.js"},
 
 
     {
       "key": "drpy_js_夜空",
       "name": "夜空",
       "type": 3,
-      "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"},
+      "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/%E5%A4%9C%E7%A9%BA.js"},
 
 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
