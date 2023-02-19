@@ -103,7 +103,7 @@
 
 { "key":"csp_XYQHiker_饭团影视", "name":"🍙┃饭团┃影视", "type":3, "api":"csp_XYQHiker", "searchable":1, "quickSearch":1, "filterable":1, "ext": "https://gitee.com/liugd1005/tvbox/raw/master/XYQHiker/ftys.json", "jar":"https://gitee.com/liugd1005/tvbox/raw/master/jar/homespiders-xpath.jar" },
 
-{"key":"drpy_js_喵喵影院","name":"🐱┃喵喵┃影院","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/%E5%96%B5%E5%96%B5.js"},
+{"key":"drpy_js_喵喵影院","name":"🐱┃喵喵┃影院","type":3,"api":"https://gitee.com/as5555/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/as5555/dr_py/raw/master/js/喵喵.js"},
 
 {"key":"诺讯影视","name":"🌍┃诺讯┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liugd1005/tvbox/raw/master/XPath/NXYS.json"},
 
