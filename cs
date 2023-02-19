@@ -47,9 +47,7 @@
 //测试
 
 
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
+
 
 
 
@@ -119,13 +117,14 @@
 //云盘
 
 {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
 {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
 {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
+
 { "key": "找资源", "name": "找资源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1 },
 
-
-
-
+{ "key": "盘搜", "name": "🛶┃盘搜┃搜索", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "http://我不是.肥猫.love:63/token.php", "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a84fef826cb82da525469e8acf1e7d9a" },
 
 
 //BILIBILI
