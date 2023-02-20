@@ -68,7 +68,7 @@
 
 
 
-#优质
+//优质
 
 {"key":"AppTT","name":"🐰┃图图┃影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/as5555/sss/raw/jar/ts.jar"},
 
@@ -79,7 +79,7 @@
 
 
 
-#drpy_js
+//drpy_js
 
 
 
