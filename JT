@@ -66,6 +66,12 @@
 
 
 
+	{"key": "drpy_js_小宝影院","name": " 🎑小宝影院 🚪[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/小宝影院.js"},
+	{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
+	{"key": "drpy_js_NY影院","name": " 🎑NY影院[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/NY影院.js"},
+	{"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/豆芽影院.j
+
+
 
 {"key": "drpy_js_看片狂人","name": " 🎑看片狂人[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/看片狂人.js"},
 
@@ -88,6 +94,11 @@
 	{"key": "drpy_js_奇珍异兽","name": " 🎑奇珍异兽[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/奇珍异兽.js"},
 	{"key": "drpy_js_腾云驾雾","name": " 🎑腾云驾雾[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/腾云驾雾.js"},
 	{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/优酷.js"},
+
+
+{"key": "drpy_js_Fun4K","name": " 🎑Fun4K[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/Fun4K.js"},
+
+
 
 
 
