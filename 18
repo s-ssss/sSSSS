@@ -25,25 +25,9 @@
 
 //----------------------------------------------------------------电视直播--------------------------------------------------------------------
 
-//方法1
-//"lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-//"logo": "https://epg.112114.xyz/logo/{name}.png"}],
-//1结束
-
-//终南群主直播 : https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-
-//月光宝盒直播 : https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
-
-//肥猫 : http://我不是.肥猫.love:63/TV/tvzb.txt
-
-//方法2
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-
-// =txt&ext=  需要转换成Base64编码  https://c.runoob.com/front-end/693/
-                                          
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[                                        
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLTE4LnR4dA=="]}]}],
-//2结束
+
 
 
 //---------------------------------------------------------------站点采集-----------------------------------------------------------------
@@ -147,8 +131,8 @@
 
 
     {"key": "csp_XBiu_国产传媒","name": "🍁国产传媒(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json"},
-    {"key": "csp_XBiu_老鸭","name": "🍁老鸭(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 
-	{"key":"XYQBiu_测试2",	"name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
+    {"key": "csp_XBiu_老鸭","name": "🍁老鸭(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,""quickSearch": 1, "filterable": 1 }, 
+	"name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 
 	{"key":"XYQBiu_测试4",	"name":"🔞nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 	{"key":"csp_hsck",		"name":"🔞Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
