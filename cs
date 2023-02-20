@@ -54,11 +54,6 @@
 
 
 
-//drpy_js
-
-
-
-
 
 
 
@@ -111,7 +106,7 @@
 
 {"key": "drpy_js_喵喵","name": " 🎑喵喵[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/喵喵.js"},
 
-{"key": "drpy_js_LIBVIO","name": "🍒┃荔波┃影视","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext":"https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
+
 
 {"key":"csp_Czsapp","name":"🏭┃厂长┃蓝光","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
