@@ -64,7 +64,7 @@
      "categories":["国产剧","港台剧","日韩剧","欧美剧","科幻片","综艺","动漫","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","综合频道"]},
 {"key": "drpy_js_蚂蚁影视","name": " 🎑蚂蚁影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/蚂蚁影视.js"},
 
-
+  {"key": "drpy_js_双十电影","name": " 🎑双十电影[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/双十电影.js"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
