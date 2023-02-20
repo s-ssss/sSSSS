@@ -601,7 +601,7 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="IMAX-厅" tvg-name="IMAX-厅" tvg-logo="https://epg.112114.xyz/logo/IMAX厅.png" group-title="其他",IMAX-厅
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1,tvg-id="MAX-1号" tvg-name="MAX-1号" tvg-logo="https://epg.112114.xyz/logo/MAX1号.png" group-title="其他",MAX-1号
+#EXTINF:-1,tvg-id="MAX-1号" tvg-name="MAX-1号" tvg-logo="http://mms1.baidu.com/it/u=2656874612,3111901392&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=750&h=500" group-title="其他",MAX-1号
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1,tvg-id="MAX-2号" tvg-name="MAX-2号" tvg-logo="https://epg.112114.xyz/logo/MAX2号.png" group-title="其他",MAX-2号
 http://epg.112114.xyz/douyu/36337
