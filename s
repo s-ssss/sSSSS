@@ -6,9 +6,8 @@
 "wallpaper":"https://qiu.moe/a723",
 //"wallpaper":"https://epg.112114.xyz/bingimg",
 
-//接口"spider":"https://gitee.com/liugd1005/tvbox/raw/master/jar/HOMESPIDERS.jar",
+"spider":"https://gitee.com/liugd1005/tvbox/raw/master/jar/HOMESPIDERS.jar",
 
-"spider":"https://notabug.org/ZID/SL/raw/main/IPTV/HOMESPIDERS.jar",
 
 
 
