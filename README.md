@@ -19,20 +19,13 @@
 <a href="https://bar.ssstab.com/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/SSS.png" alt="Downloads" />
   </a>
-<a href="https://adzhp.net/">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/ZHP.png" alt="Downloads" />
-  </a>
-<a href="https://ysg123.com/">
-    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/DH.png" alt="Downloads" />
-  </a>
 <a href="https://photokit.com/editor/">
     <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/AI%E6%8A%A0%E5%9B%BE.png" alt="Downloads" />
   </a>
-
-
-<a href="https://肥猫.love/">
-    <img src="https://肥猫.love/img/bdlogo.gif "百度logo" alt="Downloads" />
+<a href="https://adzhp.net/">
+    <img src="https://adzhp.net/wp-content/uploads/2020/01/%E9%BB%98%E8%AE%A4%E6%A0%87%E9%A2%98_%E8%87%AA%E5%AE%9A%E4%B9%89px_2019.02.08-2.png" alt="Downloads" />
   </a>
+
 
 
 
