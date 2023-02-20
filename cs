@@ -11,27 +11,10 @@
 
 
 
-//电视直播源
-//方法1
-//"lives":[{"name":"live","type":0,"url":"http://111.67.196.181/mtv/zhibo.txt"}],
-
-
-//方法2
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-
-//♥本地直播源地址
-
-////电视直播 →自定义本地直播地址 =txt&ext=  需要转换成Base64编码 clan://TVBox/live.txt
-
-//"proxy://do=live&type=txt&ext=（Y2xhbjovL1RWQm94L2xpdmUudHh0）←替换↓"
-
-//♥网络直播源
-
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvU0wvcmF3L21haW4vSVBUVi9pcHR2LnR4dA=="
-
-
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLUpULnR4dA=="
 ]}]}],
-//方法2结束
+
 
 
 
