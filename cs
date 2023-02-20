@@ -62,7 +62,7 @@
 
 {"key":"csp_xml_小猫咪（官）","name":"🐝小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
      "categories":["国产剧","港台剧","日韩剧","欧美剧","科幻片","综艺","动漫","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","综合频道"]},
-
+{"key": "drpy_js_蚂蚁影视","name": " 🎑蚂蚁影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/蚂蚁影视.js"},
 
 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
