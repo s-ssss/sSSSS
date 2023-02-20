@@ -1,26 +1,18 @@
-{
-
-/*-----------------------JAR包接口-----------------------*/
-
-//壁纸"wallpaper":"http://maoyingshi.cc/api.php",
-"wallpaper":"https://qiu.moe/a723",
-
-//接口"spider":"https://gitee.com/liugd1005/tvbox/raw/master/jar/HOMESPIDERS.jar",
-
-"spider":"https://gitee.com/as5555/sss/raw/s/Yoursmile.jar",
+{ 
 
 
+  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91a.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
+  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
+  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/cs.jar;md5;ca07e741640debc3777bb9a227cfb884",
+  "spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar",
+  //"spider":"https://神器每日推送.tk/jar",
+  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/0928.jar",
+  //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1013.jar",
+ 
+  
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLUpULnR4dA=="]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLUpULnR4dA=="
-]}]}],
-
-
-
-
-"sites":[
-
-//推荐首页
+  "sites":[
 
 {"key":"js豆瓣","name":"🐼┃豆瓣┃荐片","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
@@ -119,7 +111,7 @@
 
 {"key": "drpy_js_喵喵","name": " 🎑喵喵[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/喵喵.js"},
 
-{"key": "drpy_js_LIBVIO","name": "🍒┃荔波┃影视","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
+{"key": "drpy_js_LIBVIO","name": "🍒┃荔波┃影视","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext":"https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
 
 {"key":"csp_Czsapp","name":"🏭┃厂长┃蓝光","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
