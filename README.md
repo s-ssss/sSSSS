@@ -16,6 +16,9 @@
 " alt="Downloads" />
   </a>
 
+<a href="https://photokit.com/?lang=zh">
+    <img src="https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/AI.png" alt="Downloads" />
+  </a>
 
 
 1、https://gitea.com/ 已开始限制，清理
