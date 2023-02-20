@@ -44,21 +44,7 @@
 
 
 
-//测试
-{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/HoHo影视.js"},  
-
-{"key": "drpy_js_test","name": "影渣渣 🎑js测试[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js",searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/%E6%A8%A1%E7%89%88/jstest.js"},	
-   {"key":"csp_xBPQ_test测试","name":" 🍂测试 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/test.json"},
-   {"key": "drpy_js_p_test","name": " 🌺pl测试[JS]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/%E6%A8%A1%E7%89%88/jstest.js"},
-   {"key": " py_test","name": " 🐦py测试","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_test.py"},	  
-   {"key":"csp_biubiu_test","name":"💦xb测试(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/wokaotianshi123/0929tv_box/raw/bb4b7f06ed212f1c2ca1c3f4dc1a0f61904a754e/tvbox/23w.json"},
-   {"key": "csp_xb_test ","name": " 💠测试(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-   {"key":"csp_xpath_测试","name":" 🌾测试(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Js/%E6%A8%A1%E7%89%88/xpthtest.json"},
-   {"key":"csp_XYQBiu_测试","name":" 🌌测试(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XYQBiu/test.json"},	  
-   {"key":"csp_测试","name":"🐞测试","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/1018.jar"}, 
-   {"key":"haiwaicaiji","name":" 🍁海外看影视","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-   {"key":"非凡采集","name":" 🍁非凡影视","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
-   {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
+"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
 
 {"key":"csp_xml_小猫咪（官）","name":"🐝小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
      "categories":["国产剧","港台剧","日韩剧","欧美剧","科幻片","综艺","动漫","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","综合频道"]},
@@ -82,13 +68,76 @@
 
 
 
-//优质
+#优质
 
 {"key":"AppTT","name":"🐰┃图图┃影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/as5555/sss/raw/jar/ts.jar"},
 
 {"key":"快看","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"小苹果","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
+
+#drpy_js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{"key": "drpy_js_大米星球","name": " 🎑大米星球[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/大米星球.js"},
+
+	{"key": "drpy_js_人人影视","name": " 🎑人人影视[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/人人影视.js"},
+
+	{"key": "drpy_js_菜狗","name": " 🎑菜狗[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/菜狗.js"},
+
+	{"key": "drpy_js_奇优影院","name": " 🎑奇优影院[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/奇优影院.js"},
+
+	{"key": "drpy_js_奇珍异兽","name": " 🎑奇珍异兽[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/奇珍异兽.js"},
+
+	{"key": "drpy_js_腾云驾雾","name": " 🎑腾云驾雾[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/腾云驾雾.js"},
+
+	{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/优酷.js"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"key": "drpy_js_喵喵","name": " 🎑喵喵[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/喵喵.js"},
+
+{"key": "drpy_js_LIBVIO","name": "🍒┃荔波┃影视","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/LIBVIO.js"},
+
 {"key":"csp_Czsapp","name":"🏭┃厂长┃蓝光","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_YQKAPP","name":"🌎┃一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
@@ -112,7 +161,6 @@
 
 {"key":"csp_Kunyu77","name":" 🏳️‍🌈┃酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{ "key":"LIBVIO", "name":"🍒┃荔波┃影视", "type":3, "api":"csp_XPathMacFilter", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://gitee.com/liugd1005/tvbox/raw/master/XPath/LIBVIO.json" },
 
 
 
@@ -134,7 +182,7 @@
 
 { "key": "dr_真不卡", "name": "💳┃不卡┃影视", "type": 3, "api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2, "quickSearch": 0, "filterable": 0, "ext": "http://101.34.67.237/js/真不卡.js" },
 
-{"key":"drpy_js_子子影视","name":"🍆┃子子┃影视","type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://cx66.tk/jshk/jsv/子子影视.js"},
+
 
 {"key":"csp_Lgyy","name":"🌀┃蓝光┃影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv"},
 
