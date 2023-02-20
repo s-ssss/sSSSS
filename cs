@@ -27,7 +27,7 @@
 
 //♥网络直播源
 
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYXM1NTU1L3Nzcy9yYXcvcy8lRTYlQjUlOEIlRTglQUYlOTUubTN1"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvU0wvcmF3L21haW4vSVBUVi9pcHR2LnR4dA=="
 
 
 ]}]}],
