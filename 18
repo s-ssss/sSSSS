@@ -25,7 +25,7 @@
 
 //----------------------------------------------------------------电视直播--------------------------------------------------------------------
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[                                        
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[                                       
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLTE4LnR4dA=="]}]}],
 
 
@@ -59,9 +59,9 @@
 
 { "key": "老鸭1", "name": "老鸭1", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list", "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-{ "key": "老鸭2", "name": "老鸭2", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/", "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 }, { "key": "葡萄", 
+{ "key": "老鸭2", "name": "老鸭2", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/", "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-"name": "葡萄", "type": 1, "api": "https://api.putaozy.net/inc/apijson_vod.php", "searchable": 0, "quickSearch": 0, "filterable": 0 }, 
+{ "key": "葡萄", "name": "葡萄", "type": 1, "api": "https://api.putaozy.net/inc/apijson_vod.php", "searchable": 0, "quickSearch": 0, "filterable": 0 }, 
 
 { "key": "奶插", "name": "奶插", "type": 1, "api": "https://caiji.naichaapi.com/inc/apijson_vod.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
@@ -209,9 +209,9 @@
 {"key":"*速度资源","name":"*🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 //{"key":"*丝袜资源","name":"*🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 //{"key":"*芒果资源","name":"*🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+
 ],
 
 //--------------------------------------------------------------解析地址-------------------------------------------------------------------------
