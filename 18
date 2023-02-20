@@ -25,16 +25,16 @@
 //----------------------------------------------------------------电视直播--------------------------------------------------------------------
 
 //方法1
-//	"lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+//"lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 //"logo": "https://epg.112114.xyz/logo/{name}.png"}],
 //1结束
 
-//终南群主直播:https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
+//终南群主直播 : https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
-//月光宝盒直播:https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
+//月光宝盒直播 : https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
 
-//肥猫:http://我不是.肥猫.love:63/TV/tvzb.txt
+//肥猫 : http://我不是.肥猫.love:63/TV/tvzb.txt
 
 //方法2
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
