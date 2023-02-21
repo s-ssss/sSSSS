@@ -5,7 +5,7 @@
 
 
 
-1、https://gitea.com/ 已开始限制，清理 2、https://gitee.com/  3、https://agit.ai/  4、云储： https://yunchu.cxoip.com/
+# 1、https://gitea.com/ 已开始限制，清理 # 2、https://gitee.com/  # 3、https://agit.ai/  # 4、云储： https://yunchu.cxoip.com/
 
 5、腾讯云： https://coding.net/  6、瑞典外链网盘：https://anonfiles.com/  7、比邻： https://pan.bilnn.com 收费了，能在线编辑
 
