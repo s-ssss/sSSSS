@@ -3,6 +3,7 @@
 
 #### FongMi-TV:https://github.com/FongMi/TV 丨 短链：https://gg.gg
 
+![FongMi-TV](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png)
 
 #### 编辑：https://kvymin.github.io/CatVodTVJsonEditor/ 丨 http://cron.qiqiv.cn/cron/abc/123/
 
@@ -10,9 +11,11 @@
 
 1、https://gitea.com/ 已开始限制，清理
 
-2、https://gitee.com/、https://agit.ai/
+2、https://gitee.com/
 
-3、云储： https://yunchu.cxoip.com/
+3、https://agit.ai/
+
+4、云储： https://yunchu.cxoip.com/
 
 5、腾讯云： https://coding.net/
 
