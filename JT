@@ -33,6 +33,82 @@
 
 
 
+ {
+ "name": "豆角网(快)",
+ "url": "https://m.doujiaow1.com",
+ "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+ "User": "User-Agent$123",
+ "图片请求头": "user-agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36#Referer$https://m.doujiaow3.com/",
+ "fenlei": "国产剧$/index.php?m=vod-list-id-12-pg-#电影$/index.php?m=vod-list-id-1-pg-#港剧$/index.php?m=vod-list-id-13-pg-#台剧$/index.php?m=vod-list-id-14-pg-#韩剧$/index.php?m=vod-list-id-15-pg-#日剧$/index.php?m=vod-list-id-17-pg-#美剧$/index.php?m=vod-list-id-16-pg-#海外剧$/index.php?m=vod-list-id-18-pg-#综艺$/index.php?m=vod-list-id-30-pg-#动漫$/index.php?m=vod-list-id-4-pg-",
+ "houzhui": "-order--by-time-class-0-year-0-letter--area--lang-.html",
+ "shifouercijiequ": "0",
+ "jiequqian": "空",
+ "jiequhou": "空",
+ "jiequshuzuqian": "class=\"con\"",
+ "jiequshuzuhou": "</em>",
+ "tupianqian": "data-src=\"",
+ "tupianhou": "\"",
+ "biaotiqian": "alt=\"",
+ "biaotihou": "\"",
+ "lianjieqian": "href=\"",
+ "lianjiehou": "\"",
+ "sousuoqian": "/index.php?m=vod-search&wd=",
+ "sousuohou": "",
+ "sousuohouzhui": "/vodhtml/",
+ "ssmoshi": "1",
+ "sousuoshifouercijiequ": "0",
+ "jspic": "pic",
+ "jsname": "name",
+ "jsid": "id",
+ "ssjiequqian": "空",
+ "ssjiequhou": "空",
+ "ssjiequshuzuqian": "class=\"pic\"",
+ "ssjiequshuzuhou": "</div>",
+ "sstupianqian": "data-src=\"",
+ "sstupianhou": "\"",
+ "ssbiaotiqian": "title=\"",
+ "ssbiaotihou": "\"",
+ "sslianjieqian": "href=\"",
+ "sslianjiehou": "\"",
+ "是否启用播放线路名": "1",
+ "线路名是否二次截取": "0",
+ "线路名截取前": "<dt class=\"tabt3\"",
+ "线路名截取后": "</dt>",
+ "线路名截取数组前": "<span id=",
+ "线路名截取数组后": "/span>",
+ "线路名标题前": ">",
+ "线路名标题后": "<",
+ "bfshifouercijiequ": "0",
+ "bfjiequqian": "空",
+ "bfjiequhou": "空",
+ "bfjiequshuzuqian": "class=\"ulNumList clearfix list_",
+ "bfjiequshuzuhou": "</ul>",
+ "zhuangtaiqian": "状态：",
+ "zhuangtaihou": "</span>",
+ "daoyanqian": "导演：",
+ "daoyanhou": "</span>",
+ "zhuyanqian": "主演：",
+ "zhuyanhou": "</span>",
+ "juqingqian": "剧情:",
+ "juqinghou": "</p>",
+ "bfyshifouercijiequ": "0",
+ "bfyjiequqian": "空",
+ "bfyjiequhou": "空",
+ "bfyjiequshuzuqian": "<a",
+ "bfyjiequshuzuhou": "/a>",
+ "bfbiaotiqian": ">",
+ "bfbiaotihou": "<",
+ "bflianjieqian": "href=\"",
+ "bflianjiehou": "\""
+ },
+
+
+
+
+
+
+
+
 
 {"key": "drpy_js_看片狂人","name": " 🎑看片狂人[DRPY]","type": 3,"api": "https://github.com/heroaku/drpy/raw/master/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/看片狂人.js"},
 
