@@ -4,12 +4,7 @@
 
 
 
-[![官方风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/GF.png)](https://github.com/q215613905/TVBoxOS)
-
-[![FM风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png)](https://github.com/FongMi/TV)
-
-
-[![99风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/99.png)](https://github.com/takagen99/Box)
+[![官方风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/GF.png)](https://github.com/q215613905/TVBoxOS)[![FM风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png)](https://github.com/FongMi/TV)[![99风格](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/99.png)](https://github.com/takagen99/Box)
 
 
 
