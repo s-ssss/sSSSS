@@ -407,17 +407,21 @@ MAX-2号,http://epg.112114.xyz/douyu/36337
 
 📺剧集,#genre#
 
+
+鹿鼎记,http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
 鹿鼎记,http://epg.112114.xyz/douyu/7784862
 鹿鼎记,http://epg.112114.xyz/douyu/9586235
 鬼吹灯,http://epg.112114.xyz/douyu/9292503
+鬼吹灯,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
 
 将夜,https://epg.112114.xyz/huya/11352885
-
+封神榜,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 封神榜,https://epg.112114.xyz/huya/23749096
 寻秦记,https://epg.112114.xyz/huya/23864973
 神雕侠侣,https://epg.112114.xyz/huya/23865171
 天龙八部,https://epg.112114.xyz/huya/23903123
-僵尸道长,https://epg.112114.xyz/huya/23865164
+僵尸道长,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+僵尸道长https://epg.112114.xyz/huya/23865164
 偶像剧场,https://epg.112114.xyz/huya/11601964
 
 金装四大才子,https://epg.112114.xyz/huya/23903183
@@ -533,8 +537,93 @@ Beatbox+现场,http://epg.112114.xyz/douyu/5455515
 北京卡酷少儿,http://baidu.live.cqccn.com/__cl/cg:live/__c/bjkakuSD/__op/default/__f//index.m3u8
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 
+🏵️🏵️湖北,#genre#
+湖北,http://39.135.32.6:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zhubd
+中国交通湖北,http://tv.lanjingfm.com/cctbn/hubei.m3u8?zhubd
+武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
+武汉新闻综合,http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8?zhubd
+武汉新闻综合,http://jwlive.appwuhan.com/jw/20210809180243__6110fd43da4b6_818.m3u8?auth_key=1675091964-458351570-0-325688e99a0df23e8d71aad661a138da;{User-Agent@0151?zhubd}
+荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5;{User-Agent@0151?zhubd}
+荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1672502399-0-0-a9eb4b69fedb8e6d352f38af4867984f;{User-Agent@0151?zhubd}
+荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1672502399-0-0-dd8f147fdd4d8fa5cf320242c32b4ecd;{User-Agent@0151?zhubd}
+襄阳综合,https://xiangyang-live21.cjyun.org/10125/s10125-news_hd.m3u8?auth_key=1672502399-0-0-49069b24dfdfa997425eca0ab4db255c;{User-Agent@0151?zhubd}
+襄阳经济生活,https://xiangyang-live21.cjyun.org/10125/s10125-society_hd.m3u8?auth_key=1672502399-0-0-9373626345f1c26628e7f79c971ea877;{User-Agent@0151?zhubd}
+襄阳公共,https://xiangyang-live21.cjyun.org/10125/s10125-education_hd.m3u8?auth_key=1672502399-0-0-a9ca7300ce9271c1b70896fb74608e35;{User-Agent@0151?zhubd}
+恩施综合,http://enshi-live21.cjyun.org/10070/s10070-eszh.m3u8?auth_key=1672502399-0-0-60521180e489ac8658a238bdf2e8119a;{User-Agent@0151?zhubd}
+恩施文旅,http://enshi-live21.cjyun.org/10070/s10070-esgg.m3u8?auth_key=1672502399-0-0-050f5919fd23b093742c1d8aa5b13c63;{User-Agent@0151?zhubd}
+宜昌综合,http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1672502399-0-0-c34eb27bb6364b174e0152f5a7cd7862;{User-Agent@0151?zhubd}
+宜昌旅游生活,http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1672502399-0-0-764e7b81e48e1213ac192382bdb4501c;{User-Agent@0151?zhubd}
+十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8?zhubd
+十堰新闻,rtmp://r2bj.weizan.cn/v/351104_837056569960221505?zhubd
+十堰公共,http://p2bj.weizan.cn/351104/694292401376336037/live.m3u8?zhubd
+十堰公共,rtmp://r2bj.weizan.cn/v/351104_694292401376336037?zhubd
+十堰经济旅游,http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8?zhubd
+十堰经济旅游,rtmp://r2bj.weizan.cn/v/351104_791122427715011838?zhubd
+荆门新闻综合,http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1672502399-0-0-c9dc706da3efc39e5924b6871d7777ca;{User-Agent@0151?zhubd}
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+荆门教育频道,http://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1672502399-0-0-60b4a66ddfcc942e855c11fb3a4c13dc;{User-Agent@0151?zhubd}
+孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1672502399-0-0-5794062654aeaf404bcac09b0d00d10d;{User-Agent@0151?zhubd}
+黄冈新闻频道,http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1672502399-0-0-658b048e38ac7a094a7bca28bf712d53;{User-Agent@0151?zhubd}
+黄冈公共频道,http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1672502399-0-0-1810c76c7b12b2b5d853504e46920f66;{User-Agent@0151?zhubd}
+仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8?zhubd
+仙桃生活文体,http://221.233.242.239:280/live/72/playlist.m3u8
+鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1672502399-0-0-747ca6c91b0b202060f8856c1212e6f1;{User-Agent@0151?zhubd}
+鄂州公共频道,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1672502399-0-0-37e442dac5be05d19f5e8f06b3d2fd77;{User-Agent@0151?zhubd}
+咸宁综合频道,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1672502399-0-0-a2bf92071e2d1574740c81336115a9a7;{User-Agent@0151?zhubd}
+咸宁公共频道,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1672502399-0-0-1ec275fddf5b7dce126a0cf1d1a97f85;{User-Agent@0151?zhubd}
+利川新闻综合,http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1672502399-0-0-f207596099dd52263c0839cbf33ce792;{User-Agent@0151?zhubd}
+长阳综合频道,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1672502399-0-0-91794075e574af4b2d519913d272ec9d;{User-Agent@0151?zhubd}
+当阳综合频道,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1672502399-0-0-6b11dd3aaf2df8de29cd906c0dd108f4;{User-Agent@0151?zhubd}
+五峰综合频道,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1672502399-0-0-d61d5c98af4d028f09ef2aa2b55e43e9;{User-Agent@0151?zhubd}
+兴山综合频道,http://xingshan-live21.cjyun.org/cjyun/s10108-xingshanTV01.m3u8?auth_key=1672502399-0-0-229b33b58adbfb54bb1b56660c904923;{User-Agent@0151?zhubd}
+远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1672502399-0-0-f74548d3774bd13a90e4f1a62fdb65aa;{User-Agent@0151?zhubd}
+宜都综合频道,http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1672502399-0-0-3f71190f25051bf0ba272a960ba39793;{User-Agent@0151?zhubd}
+夷陵综合频道,http://yiling-live21.cjyun.org/10174/s10174-TC1T.m3u8?auth_key=1672502399-0-0-17b5ad3344b60bcdeb4b6995e1182380;{User-Agent@0151?zhubd}
+秭归新闻综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1672502399-0-0-17fadbf9472366a8dd59500f240acf37;{User-Agent@0151?zhubd}
+枝江综合频道,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1672502399-0-0-f83353fbbe0d14afcc290bf428217de2;{User-Agent@0151?zhubd}
+咸丰新闻综合,http://xianfeng-live21.cjyun.org/10096/s10096-xftv1.m3u8?auth_key=1672502399-0-0-360388050a36653e6ce75944e6842202;{User-Agent@0151?zhubd}
+大悟综合频道,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1672502399-0-0-47035cb52f73fd4cee6266876ab7aa19;{User-Agent@0151?zhubd}
+孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1672502399-0-0-720f18225520a83ba7ec795bbea95d0c;{User-Agent@0151?zhubd}
+孝昌生活频道,http://xiaochang-live21.cjyun.org/10128/s10128-xcsh.m3u8?auth_key=1672502399-0-0-69b3682eb810b8d430b8a81bd9af8dcf;{User-Agent@0151?zhubd}
+应城新闻党建,http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1672502399-0-0-c3b7f39430b67a598cd4a4756fb4baf4;{User-Agent@0151?zhubd}
+应城生活频道,http://yingcheng-live21.cjyun.org/10135/s10135-YCDJ.m3u8?auth_key=1672502399-0-0-2e283478ca59b5c2ca0af672782a2e09;{User-Agent@0151?zhubd}
+云梦综合频道,http://ymtvplay.gdnewmedia.cc/live/ymzh.m3u8?zhubd
+云梦党建农业,http://ymtvplay.gdnewmedia.cc/live/ymdj.m3u8
+红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1672502399-0-0-3558e7aa827c96ae981416fd28530dae;{User-Agent@0151?zhubd}
+麻城综合,http://119.36.30.199:8888/mctv1.m3u8
+团风综合,http://tuanfeng-live21.cjyun.org/10113/s10113-tftv1.m3u8?auth_key=1672502399-0-0-6c1ae9d0b3e4e847cd5f55ea6a22cfe7;{User-Agent@0151?zhubd}
+团风生活,http://tuanfeng-live21.cjyun.org/10113/s10113-tftv2.m3u8?auth_key=1672502399-0-0-ba7861372bc88129a83968cf82a25ed4;{User-Agent@0151?zhubd}
+来凤综合,http://laifeng-live21.cjyun.org/10099/s10099-lfzh.m3u8?auth_key=1672502399-0-0-c9b07016069b467cfdaa9783bd64112c;{User-Agent@0151?zhubd}
+洪湖新闻频道,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1672502399-0-0-b944c13c0dc5551ccf445dedb5d2027b;{User-Agent@0151?zhubd}
+洪湖生活频道,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1672502399-0-0-69ddd1da2207155680ab702668a87438;{User-Agent@0151?zhubd}
+江陵综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1672502399-0-0-0d227ce9c32f1f14f64bb3571f29a0a4;{User-Agent@0151?zhubd}
+江陵经济生活,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1672502399-0-0-e85888284622c2b687cad07f883626cc;{User-Agent@0151?zhubd}
+石首综合,http://sstvplay.ssgdlive.com/live/sszh.m3u8?zhubd
+石首影,http://sstvplay.ssgdlive.com/live/sszh2.m3u8?zhubd
+巴东综合,http://badong-live21.cjyun.org/10095/s10095-bdtv1.m3u8?auth_key=1672502399-0-0-fd35f4e44c5974d838a03d4165643e7d;{User-Agent@0151?zhubd}
+沙洋电视台,https://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1672502399-0-0-14f1d7dd0f03626c7c50c8fac5221877;{User-Agent@0151?zhubd}
+大冶一套,http://dayeyun-live21.cjyun.org/10102/s10102-TC2T.m3u8?auth_key=1672502399-0-0-82feca5525323bbfcd40ecd186084ca9;{User-Agent@0151?zhubd}
+大冶二套,http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1672502399-0-0-f426faae014df67e43edf64fdfc442e4;{User-Agent@0151?zhubd}
+赤壁一套,http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1672502399-0-0-7c31a89b27ffafb24fdc5e16d4762860;{User-Agent@0151?zhubd}
+崇阳新闻综合,http://www.cyxw.cn:10500/hls/live.m3u8?zhubd
+嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1672502399-0-0-98f908536976adbeef9a05f05b3bda7c;{User-Agent@0151?zhubd}
+通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1672502399-0-0-1c5dd20491d71706ef4c65d20039e36f;{User-Agent@0151?zhubd}
+鹤峰综合频道,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1672502399-0-0-eaafae2c07fcaa8a7bfef965a96f8967;{User-Agent@0151?zhubd}
+建始综合,http://jianshi-live21.cjyun.org/10094/s10094-jstv1.m3u8?auth_key=1672502399-0-0-7cab5b7dbbf6c1ce2c41ea828cc0ea3f
+广水新闻频道,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1672502399-0-0-7f24515155011ceda42510faddcba656;{User-Agent@0151?zhubd}
+保康新闻综合,http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8?zhubd
+保康文化旅游,http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
+谷城综合频道,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1672502399-0-0-1d5c2459459f94d38ba7f22246b1d18e;{User-Agent@0151?zhubd}
+黄陂新闻频道,http://live.hptv.com.cn:10080/live/cctv13.m3u8?zhubd
+黄陂生活频道,http://live.hptv.com.cn:10080/live/cctv9.m3u8?zhubd
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8?zhubd
+房县新闻综合,http://fangxian-live21.cjyun.org/10064/s10064-fxtv1-1.m3u8?auth_key=1672502399-0-0-97d9ab05db66a1b51bc84e534df4a3b4;{User-Agent@0151?zhubd}
+郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
+丹江口生活,https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8?zhubd
+阳新新闻,http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1672502399-0-0-ada31d0b09e80db8707a4b3737fa74da;{User-Agent@0151?zhubd}
 
- 💎｜VIP加密频道_6688,#genre#
+ 💎VIP頻道_6688,#genre#
 Japan HDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
 Fake Taxi HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6202/index.m3u8
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
@@ -608,7 +697,7 @@ mkmp-011桜井友田彩也香,https://t10.cdn2020.com:12335/video/m3u8/2021/08/2
 mkmp-433乱不,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/index.m3u8
 mkon-014渚,https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
 
- 💎｜VIP麻豆视频_6688,#genre#
+👠｜VIP麻豆资源_6688,#genre#
 MLT-002/连续被上的OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
@@ -696,7 +785,7 @@ MSD-112/惹火上门按摩,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9m/
 MSD-113/爽操少妇喷白浆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9o/w7/qp/4a/4ec0964678e645ce89eef69903c719e1.m3u8?
 MSD-114/口爆童颜巨乳嫩妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yb/9e/kr/j1/28c0d9c657a74a5c8be6a799eac8b201.m3u8?
 
- 💎｜VIP日本直播_6688,#genre#
+👠｜VIP直播资源_6688,#genre#
 mide-821小野六花,https://t4s.cdn2020.com/video/m3u8/2020/09/25/31eaeb70/index.m3u8
 mide-784小野六花,https://t6s.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8
 mide-797小野六花,https://t4s.cdn2020.com/video/m3u8/2020/07/27/89cfae5b/index.m3u8
@@ -854,7 +943,7 @@ abw-178結城,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index
 ipx-527岬,https://t4s.cdn2020.com/video/m3u8/2020/08/17/e1844eba/index.m3u8
 ipx-711岬,https://t10.cdn2020.com:12335/video/m3u8/2021/08/15/30400709/index.m3u8
 ipx-539岬,https://t4s.cdn2020.com/video/m3u8/2020/09/19/772e1a46/index.m3u8
- 💎｜VIP玩偶姐姐_6688,#genre#
+👠玩偶姐姐_6688,#genre#
 一日女友的漂亮姐姐 上 她是谁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8?
 一日女友的漂亮姐姐 下 ,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
@@ -1012,7 +1101,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 凱爾西·夢露（KelsiMonroe）獲得了本月的屁股！（ap12080）,http://218158.vod.redtraffic.xyz/ph5914a82e707aa/play.m3u8
 切諾基唯一的DatAzz拍手,http://12204.vod.adultiptv.net/ph5a5cb7a12e61e/play.m3u8
 假出租車中出彙編＃1 HD,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
- 💎｜VIP高清秒播1_6688,#genre#
+👠VIP高清秒播11_6688,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -1080,7 +1169,7 @@ pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
- 💎｜VIP高清秒播2_6688,#genre#
+👠VIP高清秒播6_6688,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
@@ -1400,7 +1489,7 @@ GVH-089,https://t4s.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8
 GVH-103,https://t5s.cdn2020.com/video/m3u8/2020/10/31/24b330ac/index.m3u8
 GVH-239,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/71279403/index.m3u8
 
- 💎｜VIP高清秒播3_6688,#genre#
+👠VIP高清秒播3_6688,#genre#
 老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 合租之偷窺-季曉彤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
 爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
@@ -1429,7 +1518,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤[1280720][1280*720]],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
- 💎｜VIP午夜直播_6688,#genre#
+👠｜VIP 直播资源3_6688,#genre#
 午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
 午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -1489,173 +1578,173 @@ MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
- 💎｜VIP欧美直播1_6688,#genre#
-Playboy,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/527/index.m3u8
-Bazzers TV Europe,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/910/index.m3u8
-Blue Hustler,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/1064/index.m3u8
-Barely legal,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/871/index.m3u8
-SCT,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/876/index.m3u8
-Dorcel TV FHD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/878/index.m3u8
-Redlight HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/242/index.m3u8
-Private TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/243/index.m3u8
-Hustler HD Europe,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/244/index.m3u8
-Dorcel TV HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/245/index.m3u8
-Pink\'o TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/874/index.m3u8
-FrenchLover,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/2160/index.m3u8
-O-la-la,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/2161/index.m3u8
-Vivid Red HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/2162/index.m3u8
-Exxxotica HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/2397/index.m3u8
-XXL,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5009/index.m3u8
-Penthouse Passion,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5010/index.m3u8
-Penthouse Gold HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5011/index.m3u8
-Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5012/index.m3u8
-Penthouse Quickies HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5013/index.m3u8
-Extasy 4K,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5014/index.m3u8
-Eroxxx HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/5015/index.m3u8
-A3 Bikini,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6165/index.m3u8
-Adult Time,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6166/index.m3u8
-Anal Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6167/index.m3u8
-Analized HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6168/index.m3u8
-AST TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6169/index.m3u8
-AST TV 2,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6170/index.m3u8
-Babes HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6171/index.m3u8
-Babes TV HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6172/index.m3u8
-Bang Bros HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6173/index.m3u8
-Bang!,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6174/index.m3u8
-Big Ass Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6175/index.m3u8
-Big Dick Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6176/index.m3u8
-Big Tits Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6177/index.m3u8
-Blacked HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6178/index.m3u8
-Blonde Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6179/index.m3u8
-Blowjob Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6180/index.m3u8
-Brazzers eXXtra,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6181/index.m3u8
-Brazzers HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6182/index.m3u8
- 💎｜VIP欧美直播2_6688,#genre#
-Brunette Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6183/index.m3u8
-cento x cento,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6184/index.m3u8
-Cherry Pimps,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6185/index.m3u8
-Club 17,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6186/index.m3u8
-Compilation Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6187/index.m3u8
-Cuckold Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6188/index.m3u8
-Cum Louder,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6189/index.m3u8
-Cum4k,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6190/index.m3u8
-Daughter Swap,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6191/index.m3u8
-Day with a Pornstar,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6192/index.m3u8
-DDF Busty,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6193/index.m3u8
-DDF Network,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6194/index.m3u8
-Digital Desire HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6195/index.m3u8
-Digital Playground HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6196/index.m3u8
-Dorcel Club,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6197/index.m3u8
-Dusk,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6198/index.m3u8
-Evil Angel HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6199/index.m3u8
-Evolved Fights,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6200/index.m3u8
-Extasy HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6201/index.m3u8
-Fake Taxi HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6202/index.m3u8
-Fap TV 2,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6203/index.m3u8
-Fap TV 3,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6204/index.m3u8
-Fap TV 4,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6205/index.m3u8
-Fap TV Anal,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6206/index.m3u8
-Fap TV BBW,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6207/index.m3u8
-Fap TV Compilation,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6208/index.m3u8
-Fap TV Lesbian,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6209/index.m3u8
-Fap TV Parody,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6210/index.m3u8
-Fap TV Teens,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6211/index.m3u8
-FemJoy,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6212/index.m3u8
-Fetish Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6213/index.m3u8
-Gangbang Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6214/index.m3u8
-Gay Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6215/index.m3u8
-Got MYLF,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6216/index.m3u8
-Hands on Hardcore,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6217/index.m3u8
-Hard X,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6218/index.m3u8
-Hardcore Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6219/index.m3u8
-Hitzefrei HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6220/index.m3u8
-Holed,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6221/index.m3u8
-Hot and Mean,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6222/index.m3u8
- 💎｜VIP欧美直播3_6688,#genre#
-Hot Guys Fuck,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6223/index.m3u8
-Interracial Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6224/index.m3u8
-Japan HDV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6225/index.m3u8
-Latina Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6226/index.m3u8
-Lesbea,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6227/index.m3u8
-Lesbian Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6228/index.m3u8
-Lethal Hardcore,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6229/index.m3u8
-Little Asians HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6230/index.m3u8
-Live Cams Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6231/index.m3u8
-Lust Cinema,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6232/index.m3u8
-MetArt HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6233/index.m3u8
-MILF Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6234/index.m3u8
-Monsters of Cock,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6235/index.m3u8
-MYLF TV HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6236/index.m3u8
-Naughty America,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6237/index.m3u8
-Nubiles TV HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6238/index.m3u8
-ox-ax HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6239/index.m3u8
-Pink Erotic 3,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6240/index.m3u8
-Pink Erotic 4,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6241/index.m3u8
-Playboy Plus,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6242/index.m3u8
-Pornstar Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6243/index.m3u8
-POV Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6244/index.m3u8
-Private HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6245/index.m3u8
-Public Agent,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6246/index.m3u8
-Reality Kings HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6247/index.m3u8
-RK Prime,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6248/index.m3u8
-RK TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6249/index.m3u8
-Rough Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6250/index.m3u8
-Russian Adult TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6251/index.m3u8
-Sex With Muslims,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6252/index.m3u8
-SexArt,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6253/index.m3u8
-sext 6 senso,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6254/index.m3u8
-SINematica,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6255/index.m3u8
-Teen Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6256/index.m3u8
-Threesome Red TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6257/index.m3u8
-Tiny4K,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6258/index.m3u8
-Trans Angels,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6259/index.m3u8
-True Amateurs,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6260/index.m3u8
-Tushy HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6261/index.m3u8
-TushyRAW,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6262/index.m3u8
- 💎｜VIP欧美直播4_6688,#genre#
-Visit-X TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6263/index.m3u8
-Vivid TV Europe,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6264/index.m3u8
-Vixen HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6265/index.m3u8
-We Live Together,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6266/index.m3u8
-White Boxxx,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6267/index.m3u8
-Wicked,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6268/index.m3u8
-Xpanded TV,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6269/index.m3u8
-Balkan Erotic,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6270/index.m3u8
-Red Lips,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6271/index.m3u8
-Emanuelle HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6272/index.m3u8
-Extreme,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6273/index.m3u8
-Fast Boyz,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6274/index.m3u8
-HOT,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6275/index.m3u8
-HOT XXL HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6276/index.m3u8
-Hot Pleasure,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6277/index.m3u8
-Playboy LA,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6280/index.m3u8
-Red XXX,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6281/index.m3u8
-Sexy Hot,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6282/index.m3u8
-Venus,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6284/index.m3u8
-X-MO,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6285/index.m3u8
-XY Max HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6286/index.m3u8
-XY Mix HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6287/index.m3u8
-XY Plus HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6288/index.m3u8
-Erotic,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6289/index.m3u8
-Erotic 2,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6290/index.m3u8
-Erotic 3,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6291/index.m3u8
-Erotic 4,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6292/index.m3u8
-Erotic 6,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6293/index.m3u8
-Erotic 7,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6294/index.m3u8
-Erotic 8,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6295/index.m3u8
-Erox HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6296/index.m3u8
-MvH Hard,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6297/index.m3u8
-SuperOne HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/6298/index.m3u8
-Dorcel HD orig,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/9064/index.m3u8
-Hustler HD orig,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/9065/index.m3u8
-Redlight HD orig,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/9066/index.m3u8
-Dorcel TV HD orig,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/9067/index.m3u8
-O-La-La orig,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/9068/index.m3u8
-PROKOPTV XXX HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/19401/index.m3u8
-SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/19406/index.m3u8
-DE Blue Hustler,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20023/index.m3u8
-DE Lust pur HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20024/index.m3u8
-DE Penthouse Passion HD,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20025/index.m3u8
-DE Playboy Europe,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20026/index.m3u8
-CineMan ExExEx,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20089/index.m3u8
-CineMan ExExEx TWO,http://he11o.akadatel.com/iptv/2ARSRRTC9NFFS6/20090/index.m3u8
+👠｜VIP欧美1_6688,#genre#
+Playboy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/527/index.m3u8
+Bazzers TV Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
+Blue Hustler,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/1064/index.m3u8
+Barely legal,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/871/index.m3u8
+SCT,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/876/index.m3u8
+Dorcel TV FHD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/878/index.m3u8
+Redlight HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/242/index.m3u8
+Private TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/243/index.m3u8
+Hustler HD Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/244/index.m3u8
+Dorcel TV HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/245/index.m3u8
+Pink\'o TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/874/index.m3u8
+FrenchLover,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2160/index.m3u8
+O-la-la,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2161/index.m3u8
+Vivid Red HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2162/index.m3u8
+Exxxotica HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/2397/index.m3u8
+XXL,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5009/index.m3u8
+Penthouse Passion,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5010/index.m3u8
+Penthouse Gold HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5011/index.m3u8
+Penthouse Quickies 1300k,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5012/index.m3u8
+Penthouse Quickies HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5013/index.m3u8
+Extasy 4K,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5014/index.m3u8
+Eroxxx HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/5015/index.m3u8
+A3 Bikini,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6165/index.m3u8
+Adult Time,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6166/index.m3u8
+Anal Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6167/index.m3u8
+Analized HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6168/index.m3u8
+AST TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6169/index.m3u8
+AST TV 2,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6170/index.m3u8
+Babes HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6171/index.m3u8
+Babes TV HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6172/index.m3u8
+Bang Bros HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6173/index.m3u8
+Bang!,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6174/index.m3u8
+Big Ass Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6175/index.m3u8
+Big Dick Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6176/index.m3u8
+Big Tits Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6177/index.m3u8
+Blacked HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6178/index.m3u8
+Blonde Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6179/index.m3u8
+Blowjob Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6180/index.m3u8
+Brazzers eXXtra,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6181/index.m3u8
+Brazzers HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6182/index.m3u8
+👠｜VIP欧美2_6688,#genre#
+Brunette Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6183/index.m3u8
+cento x cento,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6184/index.m3u8
+Cherry Pimps,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6185/index.m3u8
+Club 17,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6186/index.m3u8
+Compilation Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6187/index.m3u8
+Cuckold Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6188/index.m3u8
+Cum Louder,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6189/index.m3u8
+Cum4k,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6190/index.m3u8
+Daughter Swap,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6191/index.m3u8
+Day with a Pornstar,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6192/index.m3u8
+DDF Busty,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6193/index.m3u8
+DDF Network,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6194/index.m3u8
+Digital Desire HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6195/index.m3u8
+Digital Playground HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6196/index.m3u8
+Dorcel Club,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6197/index.m3u8
+Dusk,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6198/index.m3u8
+Evil Angel HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6199/index.m3u8
+Evolved Fights,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6200/index.m3u8
+Extasy HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6201/index.m3u8
+Fake Taxi HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6202/index.m3u8
+Fap TV 2,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6203/index.m3u8
+Fap TV 3,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6204/index.m3u8
+Fap TV 4,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6205/index.m3u8
+Fap TV Anal,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6206/index.m3u8
+Fap TV BBW,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6207/index.m3u8
+Fap TV Compilation,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6208/index.m3u8
+Fap TV Lesbian,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6209/index.m3u8
+Fap TV Parody,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6210/index.m3u8
+Fap TV Teens,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6211/index.m3u8
+FemJoy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6212/index.m3u8
+Fetish Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6213/index.m3u8
+Gangbang Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6214/index.m3u8
+Gay Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6215/index.m3u8
+Got MYLF,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6216/index.m3u8
+Hands on Hardcore,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6217/index.m3u8
+Hard X,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6218/index.m3u8
+Hardcore Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6219/index.m3u8
+Hitzefrei HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6220/index.m3u8
+Holed,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6221/index.m3u8
+Hot and Mean,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6222/index.m3u8
+👠｜VIP欧美3_6688,#genre#
+Hot Guys Fuck,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6223/index.m3u8
+Interracial Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6224/index.m3u8
+Japan HDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
+Latina Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6226/index.m3u8
+Lesbea,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6227/index.m3u8
+Lesbian Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6228/index.m3u8
+Lethal Hardcore,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6229/index.m3u8
+Little Asians HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6230/index.m3u8
+Live Cams Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6231/index.m3u8
+Lust Cinema,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6232/index.m3u8
+MetArt HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6233/index.m3u8
+MILF Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6234/index.m3u8
+Monsters of Cock,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6235/index.m3u8
+MYLF TV HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6236/index.m3u8
+Naughty America,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6237/index.m3u8
+Nubiles TV HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6238/index.m3u8
+ox-ax HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6239/index.m3u8
+Pink Erotic 3,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6240/index.m3u8
+Pink Erotic 4,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6241/index.m3u8
+Playboy Plus,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6242/index.m3u8
+Pornstar Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6243/index.m3u8
+POV Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6244/index.m3u8
+Private HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6245/index.m3u8
+Public Agent,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6246/index.m3u8
+Reality Kings HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6247/index.m3u8
+RK Prime,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6248/index.m3u8
+RK TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6249/index.m3u8
+Rough Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6250/index.m3u8
+Russian Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6251/index.m3u8
+Sex With Muslims,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6252/index.m3u8
+SexArt,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6253/index.m3u8
+sext 6 senso,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6254/index.m3u8
+SINematica,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6255/index.m3u8
+Teen Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6256/index.m3u8
+Threesome Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6257/index.m3u8
+Tiny4K,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6258/index.m3u8
+Trans Angels,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6259/index.m3u8
+True Amateurs,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6260/index.m3u8
+Tushy HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6261/index.m3u8
+TushyRAW,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6262/index.m3u8
+👠｜VIP欧美4_6688,#genre#
+Visit-X TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6263/index.m3u8
+Vivid TV Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6264/index.m3u8
+Vixen HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6265/index.m3u8
+We Live Together,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6266/index.m3u8
+White Boxxx,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6267/index.m3u8
+Wicked,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6268/index.m3u8
+Xpanded TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6269/index.m3u8
+Balkan Erotic,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6270/index.m3u8
+Red Lips,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6271/index.m3u8
+Emanuelle HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6272/index.m3u8
+Extreme,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6273/index.m3u8
+Fast Boyz,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6274/index.m3u8
+HOT,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6275/index.m3u8
+HOT XXL HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6276/index.m3u8
+Hot Pleasure,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6277/index.m3u8
+Playboy LA,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6280/index.m3u8
+Red XXX,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6281/index.m3u8
+Sexy Hot,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6282/index.m3u8
+Venus,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6284/index.m3u8
+X-MO,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6285/index.m3u8
+XY Max HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6286/index.m3u8
+XY Mix HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6287/index.m3u8
+XY Plus HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6288/index.m3u8
+Erotic,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6289/index.m3u8
+Erotic 2,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6290/index.m3u8
+Erotic 3,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6291/index.m3u8
+Erotic 4,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6292/index.m3u8
+Erotic 6,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6293/index.m3u8
+Erotic 7,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6294/index.m3u8
+Erotic 8,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6295/index.m3u8
+Erox HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6296/index.m3u8
+MvH Hard,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6297/index.m3u8
+SuperOne HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6298/index.m3u8
+Dorcel HD orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9064/index.m3u8
+Hustler HD orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9065/index.m3u8
+Redlight HD orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9066/index.m3u8
+Dorcel TV HD orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9067/index.m3u8
+O-La-La orig,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/9068/index.m3u8
+PROKOPTV XXX HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/19401/index.m3u8
+SKY_HIGH_SEX_VR,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/19406/index.m3u8
+DE Blue Hustler,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20023/index.m3u8
+DE Lust pur HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20024/index.m3u8
+DE Penthouse Passion HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20025/index.m3u8
+DE Playboy Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20026/index.m3u8
+CineMan ExExEx,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20089/index.m3u8
+CineMan ExExEx TWO,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/20090/index.m3u8
