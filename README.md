@@ -1,8 +1,10 @@
 
 
-# 常用：#### 短链：https://gg.gg
+# 常用：
 
+## FongMi-TV:https://github.com/FongMi/TV ## 短链：https://gg.gg
 
+### 编辑：https://kvymin.github.io/CatVodTVJsonEditor/  http://cron.qiqiv.cn/cron/abc/123/
 
 #### 外链：
 
