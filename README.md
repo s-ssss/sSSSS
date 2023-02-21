@@ -3,13 +3,13 @@
 
 #### FongMi-TV:https://github.com/FongMi/TV 丨 短链：https://gg.gg
 
-![FongMi-TV](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png)[FongMi-TV](https://github.com/FongMi/TV )
+![https://github.com/FongMi/TV ](https://gitee.com/as5555/sss/raw/%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87/FM.png)[FongMi-TV](https://github.com/FongMi/TV )
 
 #### 编辑：https://kvymin.github.io/CatVodTVJsonEditor/ 丨 http://cron.qiqiv.cn/cron/abc/123/
 
 #### 外链：
 
-~~看~~
+
 
 
 
