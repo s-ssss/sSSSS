@@ -1,5 +1,5 @@
 
-# 常用：
+#### 仓库：
 
 
 
@@ -17,9 +17,6 @@
 
 
 
-
-
-#### FongMi-TV:https://github.com/FongMi/TV 丨 短链：https://gg.gg
 
 
 
