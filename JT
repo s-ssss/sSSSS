@@ -30,7 +30,7 @@
 
 //---------------------------------------------------------------测试资源-----------------------------------------------------------------
 
-{"key": "drpy_js_喵喵","name": " 🎑喵喵[DRPY]","type": 3,"api": "https://notabug.org/ZID/Yoursmile7/raw/master/js/lib/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/&#x55B5;&#x55B5;.js"},
+
 
 //首页推荐
 {"key":"js豆瓣","name":"🐼┃豆瓣┃荐片","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
