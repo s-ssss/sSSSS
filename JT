@@ -25,21 +25,17 @@
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9aSUQvMS9yYXcvcy9MaXZlLUpULnR4dA=="]}]}], 
 
-//---------------------------------------------------------------站点采集-----------------------------------------------------------------
+//---------------------------------------------------------------资源采集-----------------------------------------------------------------
 "sites": [ 
 
-//测试资源
-
+//---------------------------------------------------------------测试资源-----------------------------------------------------------------
 
 
 
 //首页推荐
 {"key":"js豆瓣","name":"🐼┃豆瓣┃荐片","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-
-
-//优质资源
-
+//---------------------------------------------------------------优质资源-----------------------------------------------------------------
 
 {"key":"小苹果","name":"🍎┃苹果┃优质","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
@@ -67,9 +63,6 @@
 
 {"key":"csp_Czsapp","name":"🏭┃厂长┃优质","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":"1","https://notabug.org/ZID/Yoursmile7/raw/master/js/lib/drpy2.min.js","ext": "https://www.notabug.org/ZID/1/raw/DRYP/CZSPP.js"},
 
-
-
-
 {"key":"csp_Xinsj","name":"✨┃视觉┃优质","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 
 {"key":"csp_DiDuan","name":"📺┃低端┃优质","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
@@ -81,9 +74,9 @@
 {"key":"Smdyy","name":"🐎┃神马┃优质","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 
+//---------------------------------------------------------------一般资源-----------------------------------------------------------------
+
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
-
 
 {"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -102,6 +95,7 @@
 {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
+//---------------------------------------------------------------网盘资源-----------------------------------------------------------------
 
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 {"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
@@ -112,7 +106,8 @@
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 
-//BILIBILI
+
+//---------------------------------------------------------------BILIBILI-----------------------------------------------------------------
 
 {"key": "MV","name": "🌌MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/zhahaoyi/tvbox/raw/master/bilbili/%E5%90%BE%E7%88%B1MTV.json","spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0723.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
@@ -127,12 +122,6 @@
 {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/json/相声.txt"},
 
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/json/戏曲.txt"}
-
-
-
-
-
-
 
 //★👆上面结尾要少一个,号不然会报错
 ],
