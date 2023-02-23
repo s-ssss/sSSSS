@@ -45,7 +45,7 @@
 "filterable": 1
 },
 
-"key": "鲨鱼资源",
+{"key": "鲨鱼资源",
 "name": "🔞鲨鱼",
 "type": 1,
 "api": "https://shayuapi.com/api.php/provide/vod/",
@@ -54,7 +54,7 @@
 "filterable": 1
 },
 
-"key": "厂长资源",
+{"key": "厂长资源",
 "name": "厂长资源",
 "type": 1,
 "api": "https://czspp.com/api.php/provide/vod/",
