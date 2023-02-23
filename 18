@@ -54,7 +54,14 @@
 "filterable": 1
 },
 
-
+"key": "厂长资源",
+"name": "厂长资源",
+"type": 1,
+"api": "https://czspp.com/api.php/provide/vod/",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
 
 {
 "key": "秀色资源",
