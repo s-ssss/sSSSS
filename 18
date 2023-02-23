@@ -33,8 +33,6 @@
 
 "sites":[
 
-{"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/js/%e7%8c%ab%e4%ba%86%e4%b8%aa%e5%92%aa.js"},
-
 
 
 {
@@ -47,7 +45,14 @@
 "filterable": 1
 },
 
-
+"key": "鲨鱼资源",
+"name": "🔞鲨鱼",
+"type": 1,
+"api": "https://shayuapi.com/api.php/provide/vod/",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
 
 
 
@@ -62,6 +67,8 @@
 },
 
 
+
+{"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/js/%e7%8c%ab%e4%ba%86%e4%b8%aa%e5%92%aa.js"},
 
 
 
