@@ -69,7 +69,37 @@
             "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
         },
 
-{"key":"*色窝资源","name":"🔞AI换脸","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+
+{
+"key": "草莓资源",
+"name": "🔞草莓",
+"type": 1,
+"api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+
+
+
+
+{
+"key": "秀色资源",
+"name": "🔞秀色",
+"type": 1,
+"api": "https://api.xiuseapi.com/api.php/provide/vod/",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+
+
+
+
+{"key":"*色窝资源","name":"🔞AI换脸","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 		 {"key": "csp_xBPQ_juyou","name": "🏆聚优直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://codeberg.org/ygbh8888/xingkongbujian/raw/branch/main/H/ju2.json"},
          {"key": "csp_xBPQ_香蕉AV解说","name": "🏆香蕉解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/%E9%A6%99%E8%95%89%E8%A7%A3%E8%AF%B4.json"},
