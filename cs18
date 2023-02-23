@@ -5,6 +5,18 @@
 
 "sites":[
 
+{
+"key": "厂长资源",
+"name": "厂长资源",
+"type": 1,
+"api": "https://czspp.com/api.php/provide/vod/",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+
+
 {"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ZID/zhanghong1983/raw/main/JS/js/%e7%8c%ab%e4%ba%86%e4%b8%aa%e5%92%aa.js"},
 
 {"key":"黄瓜TV资源","name":"黄瓜TV资源","type":0,"api":"https://caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
