@@ -69,7 +69,7 @@
 
 {"key":"csp_Voflix","name":"🌀┃Voflix┃优质","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Cokemv","name":"🚗┃可乐┃┃","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🚗┃可乐┃优质┃","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Smdyy","name":"🐎┃神马┃优质","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
