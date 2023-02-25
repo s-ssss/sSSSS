@@ -1,5 +1,6 @@
 
-//直播更新2323-02-20
+//直播更新2323-02-20 密码頻道_XXXX,#genre#
+ 
 📑新闻,#genre#
 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
@@ -693,7 +694,7 @@ MAX-2号,http://epg.112114.xyz/douyu/36337
 ⒹⒸ科幻,http://epg.112114.xyz/douyu/9651304
 漫威科幻,http://epg.112114.xyz/douyu/6140589
 
-快意江湖,https://epg.112114.xyz/huya/11342435
+
 
 黑帮系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
 古墓系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
@@ -703,6 +704,7 @@ MAX-2号,http://epg.112114.xyz/douyu/36337
 喜剧系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
 动作大片,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 玄幻系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+古装武侠,https://epg.112114.xyz/huya/11342435
 古装武侠,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 
 王晶导演,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
@@ -712,6 +714,7 @@ MAX-2号,http://epg.112114.xyz/douyu/36337
 
 
 鹿鼎记,http://epg.112114.xyz/douyu/7784862
+鹿鼎记,http://epg.112114.xyz/huya/23865080
 
 鬼吹灯,http://epg.112114.xyz/douyu/9292503
 
@@ -835,7 +838,9 @@ Beatbox+现场,http://epg.112114.xyz/douyu/5455515
 金鹰卡通,http://baidu.live.cqccn.com/__cl/cg:live/__c/jinyingSD/__op/default/__f//index.m3u8
 
 
- 💎VIP頻道_6688,#genre#
-Japan HDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
-Fake Taxi HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6202/index.m3u8
+ 💎VIP頻道,#genre# 
 
+暂无节目-可DIY制定,
+外国语频道-电影解说-舞曲-等等,
+如需添加请联系BOSS,
+ 💎Shi*Liang 💎,
