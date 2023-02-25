@@ -37,6 +37,9 @@
 
 //---------------------------------------------------------------优质资源-----------------------------------------------------------------
 
+
+{"key":"csp_Zjdr","name":"👓┃追剧┃测SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},	
+
 {"key":"小苹果","name":"🍎┃苹果┃优质","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"快看","name":"👀┃快看┃优质","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
